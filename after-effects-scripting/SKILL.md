@@ -1,6 +1,7 @@
 ---
 name: after-effects-scripting
-description: Drive a running After Effects instance directly from the shell to build, edit and render motion graphics — no MCP, plugin or panel required. Use whenever the user wants Claude to work inside After Effects: building animations, title sequences, logo stings, UI/product motion, data visualisations, or fixing an existing comp. Covers the osascript/ExtendScript bridge, a verified helper library, the render-proof iteration loop, After Effects API traps that cause silent failures, and the numeric craft settings (easing, shadows, glows, motion blur) that separate premium motion from amateur output. Triggers on After Effects, AE, ExtendScript, .aep, motion graphics, animation, comp, keyframes.
+description: >-
+  Drive a running After Effects instance directly from the shell to build, edit and render motion graphics — no MCP, plugin or panel required. Use whenever the user wants Claude to work inside After Effects: building animations, title sequences, logo stings, UI/product motion, data visualisations, or fixing an existing comp. Covers the osascript/ExtendScript bridge, a verified helper library, the render-proof iteration loop, After Effects API traps that cause silent failures, and the numeric craft settings (easing, shadows, glows, motion blur) that separate premium motion from amateur output. Triggers on After Effects, AE, ExtendScript, .aep, motion graphics, animation, comp, keyframes.
 ---
 
 # After Effects, driven from the shell
